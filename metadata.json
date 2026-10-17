@@ -1,0 +1,6 @@
+{
+  "name": "Smart Local",
+  "description": "Smart Internship, Local Job & Gig Discovery Platform for college students and freshers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
